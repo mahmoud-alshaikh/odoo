@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_../odoo/_../odoo/,../odoo/.../odoo/,model_../odoo/_../odoo/,,1,0,0,0
